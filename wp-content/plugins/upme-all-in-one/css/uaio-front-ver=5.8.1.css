@@ -1,0 +1,8 @@
+.gm-style img {
+    max-width: none !important; 
+}
+
+.uaio-badge{
+    float: left;
+    margin: 5px;
+}
